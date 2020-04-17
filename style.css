@@ -1,0 +1,78 @@
+body{
+	
+	padding: 0;
+	background-color: #1C1C1C;
+}
+
+header{
+	text-align: center;
+}
+
+.name{
+	margin: 20px;
+	font-size: 30px;
+}
+
+.praticas{
+	padding-bottom: 20px;
+	margin-bottom: 10px;
+	font-size: 20px;
+	border-bottom: 1px solid #000;
+		
+}
+
+.container{
+	display: flex;
+	flex-direction: column;
+	height: auto;
+	margin: auto;
+	background-color: #A9A9A9;
+	margin: 30px;
+	text-align: center;
+	align-items: center;
+}
+
+.image{
+	border-top: 1px solid #000;
+	justify-content: center;
+	display: flex;
+	background-color: #1C1C1C;
+	align-items: center;
+	height: 310px;
+	width: 210px;
+	margin-bottom: 20px;
+}
+img{	
+	margin:40px;
+	height: 300px;
+	width:200px;
+}
+
+.info p {
+	padding-bottom: 20px;
+	margin-bottom: 10px;
+	text-align: center;
+	margin: 20px;
+	padding-left: 80px;
+	padding-right: 80px;
+	border-bottom: 1px solid #000;
+
+
+}
+.info{
+	line-height: 30px;
+
+}
+
+section{
+	line-height: 50px;
+	
+
+}
+section ul{
+	list-style: none;
+}
+ h5 a{
+ 	text-decoration: none;
+ }
+
